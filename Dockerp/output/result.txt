@@ -1,0 +1,9 @@
+List of text files: IF.txt, Limerick-1.txt
+Total words in IF.txt: 287
+Total words in Limerick-1.txt: 32
+Grand total of words in all files: 319
+Top 3 words in IF.txt:
+you: 14
+If: 13
+can: 12
+IP Address: 192.168.1.159

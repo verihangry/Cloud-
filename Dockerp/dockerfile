@@ -1,0 +1,11 @@
+# Use a minimal Python base image
+FROM python:3.8-alpine
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Copy the Python script into the container
+COPY dockerapp.py /app/
+
+# Command to run the script
+CMD ["python3", "dockerapp.py"]
